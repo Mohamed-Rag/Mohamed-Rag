@@ -1,4 +1,4 @@
-## 👋 Dynamic Welcome
+## 👋 Welcome to My GitHub
 
 <p align="center">
   <a href="https://github.com/Mohamed-Rag">
@@ -6,71 +6,61 @@
   </a>
 </p>
 
-# Hi there, I'm Mohamed Ragab 👋
+# Hi, I'm Mohamed Ragab 👨‍💻
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=35&duration=4000&color=36,F700&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;This+is+a+cool+typing+animation;You+can+customize+it+as+you+like)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=35&duration=4000&color=F70036&center=true&vCenter=true&width=550&lines=Hello+World+%F0%9F%91%8B;Welcome+to+my+GitHub;Let's+Build+Cool+Stuff)
 
-## ✨ About Me
+---
 
-I am a passionate and dedicated individual with a strong interest in Machine Learning and Artificial Intelligence. I enjoy building innovative solutions and constantly learning new technologies. I am a recent graduate with a degree in Computer Science and I am always eager to contribute to open-source projects and collaborate with other developers.
+## ✨ About Me  
 
-## 🛠️ Skills
+I’m a Computer Science graduate with a strong passion for **Machine Learning, Deep Learning, and AI applications**.  
+I enjoy building projects that mix creativity with technology, and I’m always looking to learn and collaborate on open-source work.
 
-- **Programming Languages:** Python, Java, C++, JavaScript
-- **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Flask
-- **Databases:** SQL
-- **Tools & Platforms:** Git, Jupyter Notebook, Google Colab, Kaggle
-- **Other:** Data Analysis, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Web Development (Basic)
+---
 
-## 🚀 Projects
+## 🛠️ Skills  
 
-- ### [learnify](https://github.com/Mohamed-Rag/learnify)
-- ### [Autonomous_Vehicles](https://github.com/Mohamed-Rag/Autonomous_Vehicles)
-- ### [CNN-sign-language](https://github.com/Mohamed-Rag/CNN-sign-language)
-- ### [BBC-News--RNN-](https://github.com/Mohamed-Rag/BBC-News--RNN-)
-- ### [simple-translator-en-gr](https://github.com/Mohamed-Rag/simple-translator-en-gr)
-- ### [tic-tac-game](https://github.com/Mohamed-Rag/tic-tac-game)
+- **Languages:** Python, Java, C++, JavaScript  
+- **ML/DL:** TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Data:** Pandas, NumPy, SQL  
+- **Tools:** Git, Jupyter, Colab, Kaggle  
+- **Domains:** Data Analysis, Machine Learning, NLP, Computer Vision  
 
-## 📊 GitHub Stats & Activity
+---
 
-![Mohamed Ragab GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Rag&show_icons=true&theme=radical)
-![Mohamed Ragab Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Rag&theme=react)
+## 🚀 Projects  
 
-## 💻 Most Used Languages
+- [learnify](https://github.com/Mohamed-Rag/learnify)  
+- [Autonomous_Vehicles](https://github.com/Mohamed-Rag/Autonomous_Vehicles)  
+- [CNN-sign-language](https://github.com/Mohamed-Rag/CNN-sign-language)  
+- [BBC-News--RNN-](https://github.com/Mohamed-Rag/BBC-News--RNN-)  
+- [simple-translator-en-gr](https://github.com/Mohamed-Rag/simple-translator-en-gr)  
+- [tic-tac-game](https://github.com/Mohamed-Rag/tic-tac-game)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rag&layout=compact&theme=radical)
+---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Rag&show_icons=true&theme=radical)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rag&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Rag&theme=dark&hide_border=true)  
+
+---
+
+## 🏆 Achievements  
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Rag&theme=radical&no-frame=true&no-bg=true" alt="Mohamed Ragab's GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Rag&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
-## 🔥 GitHub Streak Stats
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Rag&theme=dark&hide_border=true)
+## 📬 Connect With Me  
 
-## 🏅 Badges
+- **LinkedIn:** [mohamed-ragab-ds](https://www.linkedin.com/in/mohamed-ragab-ds)  
+- **Email:** mohamed.ragab.ds@gmail.com  
+- **Kaggle:** [mohamedra9ab](https://www.kaggle.com/mohamedra9ab)  
+- **Instagram:** [@mo7amed.r.a.g.a.b](https://www.instagram.com/mo7amed.r.a.g.a.b)  
 
-![GitHub followers](https://img.shields.io/github/followers/Mohamed-Rag?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Mohamed-Rag?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/Mohamed-Rag/learnify)
-
-
-
-## 💬 Get in Touch
-
-- **LinkedIn:** [https://www.linkedin.com/in/mohamed-ragab-ds](https://www.linkedin.com/in/mohamed-ragab-ds)
-- **Email:** mohamed.ragab.ds@gmail.com
-- **Kaggle:** [https://www.kaggle.com/mohamedra9ab](https://www.kaggle.com/mohamedra9ab)
-- **Facebook:** [https://www.facebook.com/mezoo.ragab](https://www.facebook.com/mezoo.ragab)
-- **Instagram:** [https://www.instagram.com/mo7amed.r.a.g.a.b](https://www.instagram.com/mo7amed.r.a.g.a.b)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
+---
