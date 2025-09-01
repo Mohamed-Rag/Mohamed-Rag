@@ -21,34 +21,34 @@
 ## 🛠️ Tech Stack
 
 **Programming:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="50" height="50"/>  
 
 **ML / DL:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>  
 
 **Data & Visualization:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-3c8dbc?logo=python&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> 
+<img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="matplotlib" width="50" height="50"/> 
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="50" height="50"/>  
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>  
 
 **Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/> 
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>  
 
 ---
 
