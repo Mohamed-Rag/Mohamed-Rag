@@ -1,3 +1,11 @@
+## 👋 Dynamic Welcome
+
+<p align="center">
+  <a href="https://github.com/Mohamed-Rag">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Rag&theme=dark" alt="Mohamed Ragab's GitHub Profile Summary" />
+  </a>
+</p>
+
 # Hi there, I'm Mohamed Ragab 👋
 
 Welcome to my GitHub profile! I'm a passionate and dedicated individual with a strong interest in Machine Learning and Artificial Intelligence. I enjoy building innovative solutions and constantly learning new technologies.
@@ -43,7 +51,7 @@ Here are some of my notable projects. Click on the project name to view the repo
 I'm always open to new opportunities and collaborations. Feel free to connect with me:
 
 - **LinkedIn:** [https://www.linkedin.com/in/mohamed-ragab-ds](https://www.linkedin.com/in/mohamed-ragab-ds)
-- **Email:** [mohamed.ragab.ds@gmail.com](mohamed.ragab.ds@gmail.com)
+- **Email:** mohamed.ragab.ds@gmail.com (Please replace with your actual email address)
 - **Kaggle:** [https://www.kaggle.com/mohamedra9ab](https://www.kaggle.com/mohamedra9ab)
 - **Facebook:** [https://www.facebook.com/mezoo.ragab](https://www.facebook.com/mezoo.ragab)
 - **Instagram:** [https://www.instagram.com/mo7amed.r.a.g.a.b](https://www.instagram.com/mo7amed.r.a.g.a.b)
@@ -107,14 +115,6 @@ Here's a cool animation to make the profile more engaging:
 
 
 
-## 👋 Dynamic Welcome
-
-<p align="center">
-  <a href="https://github.com/Mohamed-Rag">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Rag&theme=dark" alt="Mohamed Ragab's GitHub Profile Summary" />
-  </a>
-</p>
-
 
 
 
@@ -127,15 +127,6 @@ Here's a cool animation to make the profile more engaging:
 </p>
 
 
-
-
-## ☕ Buy Me A Coffee
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mohamedragab">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=mohamedragab&button_colour=FFDD00&font_colour=000000&glif_colour=000000&a=true" />
-  </a>
-</p>
 
 
 
