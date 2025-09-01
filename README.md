@@ -28,7 +28,7 @@ skills = {
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "Tools": ["Git", "Jupyter", "Colab", "VS Code"]
 }
-```markdown
+```
 ---
 
 ## 🚀 Featured Projects
