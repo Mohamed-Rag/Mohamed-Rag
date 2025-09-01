@@ -90,6 +90,9 @@
 - 💻 [GitHub](https://github.com/Mohamed-Rag)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Rag&label=Profile%20Views&color=f78da7&style=flat" alt="profile-views" />
+</p>
 
 <!-- ===== FOOTER ANIMATION ===== -->
 <p align="center">
