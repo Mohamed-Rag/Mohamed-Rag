@@ -20,15 +20,36 @@
 
 ## 🛠️ Tech Stack
 
-```python
-skills = {
-  "Programming": ["Python", "C++", "SQL", "Java", "JavaScript"],
-  "ML/DL": ["TensorFlow", "Keras", "Scikit-learn", "PyTorch"],
-  "Data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-  "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
-  "Tools": ["Git", "Jupyter", "Colab", "VS Code"]
-}
-```
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
+
+**ML / DL:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+
+**Data & Visualization:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-3c8dbc?logo=python&logoColor=white)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
+
 ---
 
 ## 🚀 Featured Projects
